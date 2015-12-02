@@ -14,7 +14,7 @@ How do I get it?
 
 ::
 
-    curl https://raw.githubusercontent.com/mitsuhiko/pipsi/master/get-pipsi.py | python
+    curl -O https://raw.githubusercontent.com/mitsuhiko/pipsi/master/get-pipsi.py && python get-pipsi.py
 
 How does it work?
 
